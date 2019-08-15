@@ -1,4 +1,4 @@
 .idea
 *.pyc
-*.sqlite
+*.sqlite3
 .env
